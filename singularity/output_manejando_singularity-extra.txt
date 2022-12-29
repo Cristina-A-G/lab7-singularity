@@ -1,0 +1,19 @@
+
+Extra. Ejecutar el notebook kmer-solution-13.ipynb en ibsen y en el contenedor my-python.sif de Singularity
+
+Ejecución del notebook kmer-solution-13.ipynb del subdirectorio extras:
+[22;0t]0;IPython: lab7-singularity/singularityStart
+Number of generated k-mers: 67108864
+
+186 ms ± 114 µs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+
+Finish!
+
+Ejecución del notebook kmer-solution-13.ipynb en el contenedor my-python.sif de Singularity:
+[22;0t]0;IPython: lab7-singularity/singularityStart
+Number of generated k-mers: 67108864
+
+190 ms ± 2.25 ms per loop (mean ± std. dev. of 2 runs, 10 loops each)
+
+Finish!
+
